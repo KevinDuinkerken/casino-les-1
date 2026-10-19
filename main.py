@@ -33,3 +33,4 @@ Vaste kosten:   €{total_cost:.2f}
 Saldo:          €{balance:.2f}
 
 Je hebt {entry_balance} budget voor toegang tot het casino""")
+
